@@ -1,4 +1,4 @@
-# ESP8266V3 OLED
+# ESP8266 V3 OLED
 
 This project demonstrates how to use a 0.96-inch OLED display with an ESP8266 module. The code displays the message "Hello ideaspark" on the OLED display.
 
